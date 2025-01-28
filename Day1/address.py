@@ -1,0 +1,6 @@
+first_name=input("enter first name: ")
+last_name=input("enter last name: ")
+address=input("enter your address: ")
+pincode=input("enter pincode: ")
+print(f"hello {first_name} {last_name}")
+print(f"thanks for coming from {address} , {pincode}")
